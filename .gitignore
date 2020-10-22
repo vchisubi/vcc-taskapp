@@ -1,0 +1,20 @@
+# production
+build
+
+# misc
+.DS_Store
+.yarnclean
+*.rdb
+/.vscode/*
+*.env
+.env
+**/node_modules
+/node_modules/*
+
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*

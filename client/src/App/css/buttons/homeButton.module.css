@@ -1,0 +1,19 @@
+.homeButton {
+  background: url('../../assets/images/homeButtonWht.png');
+  background-repeat: no-repeat;
+  cursor: pointer;
+  border: none;
+  width: 140px;
+  height: 80px;
+  outline: none;
+}
+
+.homeButton:hover {
+  background: url('../../assets/images/homeButton.png');
+  background-repeat: no-repeat;
+  cursor: pointer;
+  border: none;
+  width: 140px;
+  height: 80px;
+  outline: none;
+}
